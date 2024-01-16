@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "popins_bold";
+    src: url("../../font/Poppins/Poppins-ExtraBold.ttf");
+}
+
+.frame {
+    padding-top: 4vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    font-family: "popins_bold";
+    color: #cdcdff;
+    padding-bottom: 3vh;
+}
+
+.cardOutput {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

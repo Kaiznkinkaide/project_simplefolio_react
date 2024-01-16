@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "popins_bold";
+    src: url("../../font/Poppins/Poppins-ExtraBold.ttf");
+}
+
+.welcome {
+    padding: 3vw;
+    display: flex;
+    gap: 1.5rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #cdcdff;
+}
+
+
+.welcome h1,
+.welcome h3 {
+    font-family: "popins_bold";
+    color: #cdcdff
+}
+
+.welcome h1 span {
+    color: #90a0d9;
+}
+
+.welcome article {
+    width: 60vw;
+}

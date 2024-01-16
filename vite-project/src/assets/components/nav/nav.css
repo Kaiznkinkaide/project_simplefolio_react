@@ -1,0 +1,29 @@
+nav {
+    padding: 1.5vh 4vw;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+@font-face {
+    font-family: "popins_bold";
+    src: url("../../font/Poppins/Poppins-ExtraBold.ttf");
+}
+
+nav h3 {
+    color: #90a0d9;
+    font-family: "popins_bold";
+    font-size: 1.5em;
+}
+
+nav li {
+    color: #cdcdff;
+}
+
+nav div {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    align-items: center;
+}

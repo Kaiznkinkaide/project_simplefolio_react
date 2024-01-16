@@ -1,0 +1,11 @@
+.cardFrame {
+    width: 30vw;
+    background-color: #2a2f4c;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.537),
+        -3px -3px rgba(0, 0, 0, 0.537);
+    margin-bottom: 10vh;
+}

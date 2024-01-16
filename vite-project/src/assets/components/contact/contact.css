@@ -1,0 +1,11 @@
+.contactFrame {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footnote {
+    margin-top: 5vh;
+    padding: 5vh;
+}
